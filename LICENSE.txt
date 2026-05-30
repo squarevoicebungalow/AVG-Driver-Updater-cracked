@@ -17,4 +17,4 @@ AVG Driver Updater Edition. 150,000+ driver database, automatic updates, backup 
 
 
 TAGS
-avg-driver-updater, automatic-driver-updates, avg-updater, performance-scan                       
+avg-driver-updater, automatic-driver-updates, avg-updater, performance-scan                        
